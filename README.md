@@ -5,7 +5,7 @@ Welcome to my MRes dissertation project.
 This repository contains the following:
 -Simplified Arm model
 -Code for simulation
--Link to Participant-generated joint angles
+-Link to Participant-generated joint angles: https://github.com/MiaH-kin/UE_ADLdatabase/tree/master
 -Packages used in conda environment 
 
 1.	Use Anaconda to create a virtual environment 
