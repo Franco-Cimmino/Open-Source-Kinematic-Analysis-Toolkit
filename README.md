@@ -1,11 +1,12 @@
 # Open-Source-Kinematic-Analysis-Toolkit
-A free and open-source toolkit has been developed using an anthropomorphic arm model, allowing any data set containing joint angles over time to be implemented to visualise motion for kinematic analysis.
+A free and open-source toolkit has been developed using an anthropomorphic arm model. It allows any data set containing joint angles over time to be implemented to visualise motion for kinematic analysis.
 
 Welcome to my MRes dissertation project.
 This repository contains the following:
 -Simplified Arm model
 -Code for simulation
 -Link to Participant-generated joint angles: https://github.com/MiaH-kin/UE_ADLdatabase/tree/master
+
 -Packages used in conda environment 
 
 1.	Use Anaconda to create a virtual environment 
