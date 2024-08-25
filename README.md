@@ -38,6 +38,24 @@ a.	Python testing.py
 b.	This will run the simulation
 
 
+### 7 DOF kinematic chain:
+
+### 7 DOF kinematic chain link properties:
+
+### 7 DOF kinematic chain revolute joint descriptions:
+
+### Calculations used for lengths and weights
+
+
+173.3 x 17.25/173.3 = 29.89cm 	-Upper arm Length  
+67.49kg x 3.075/67.49 = 2.07kg	-Upper arm weight  
+
+173.3 x 15.85/173.3 = 27.46cm 	-Forearm Length  
+67.49kg x 1.72/67.49 = 1.16kg		-Forearm weight  
+
+According to reference (26), the average hand weight was 400g. 
+According to reference (25), the average hand length was 18.105cm. 
+
 ### Table One: Value Key for Movements for each Joint 
 
 | Joint     | Movement              | Positive | Negative |
