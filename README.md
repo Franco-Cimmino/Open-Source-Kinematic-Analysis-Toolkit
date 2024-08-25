@@ -82,5 +82,32 @@ According to reference (25), the average hand length was 18.105cm.
 | Wrist     | Radial Deviation       | YES      |         |
 
 
+### Abduction Model and Trajectory
+![Model Abduction](ModelAbd.png)
+![Trajectory Abduction](TrajecAbd.png)
+
+### Elbow Flexion Model and Trajectory
+![Model Elbow Flexion](ModelEFlx.png)
+![Trajectory Elbow Flexion](TrajecEFlx.png)
+
+### External Rotation Model and Trajectory
+![Model External Rotation](ModelExtR.png)
+![Trajectory External Rotation](TrajecExtR.png)
+
+### Flexion Model and Trajectory
+![Model Flexion](ModelFlx.png)
+![Trajectory Flexion](TrajecFlx.png)
+
+### Hip Extension Model and Trajectory
+![Model Hip Extension](ModelHExt.png)
+![Trajectory Hip Extension](TrajecHExt.png)
+
+### Supination Model and Trajectory
+![Model Supination](ModelSup.png)
+![Trajectory Supination](TrajecSup.png)
+
+### Ulnar Deviation Model and Trajectory
+![Model Ulnar Deviation](ModelUlnaD.png)
+![Trajectory Ulnar Deviation](TrajecUlnaD.png)
 
 
