@@ -36,3 +36,27 @@ c.	”
 11.	In the Anaconda prompt terminal, run the following command
 a.	Python testing.py
 b.	This will run the simulation
+
+
+### Table One: Value Key for Movements for each Joint 
+
+| Joint     | Movement              | Positive | Negative |
+|-----------|------------------------|----------|---------|
+| Shoulder  | Flexion                |          |   YES   |
+| Shoulder  | Extension              | YES      |         |
+| Shoulder  | Internal Rotation      | YES      |         |
+| Shoulder  | External Rotation      |          |   YES   |
+| Shoulder  | Abduction              | YES      |         |
+| Shoulder  | Adduction              |          |   YES   |
+| Elbow     | Flexion                |          |   YES   |
+| Elbow     | Extension              | YES      |         |
+| Wrist     | Pronation              | YES      |         |
+| Wrist     | Supination             |          |   YES   |
+| Wrist     | Flexion                | YES      |         |
+| Wrist     | Extension              |          |   YES   |
+| Wrist     | Ulnar Deviation        |          |   YES   |
+| Wrist     | Radial Deviation       | YES      |         |
+
+
+
+
