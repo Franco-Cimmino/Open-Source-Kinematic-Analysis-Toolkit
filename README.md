@@ -1,19 +1,15 @@
 # Open-Source-Kinematic-Analysis-Toolkit
-A free and open-source toolkit has been developed using an anthropomorphic arm model. It allows any data set containing joint angles over time to be implemented to visualise motion for kinematic analysis.
+An open-source toolkit has been developed using an anthropomorphic arm model. It allows any data set containing joint angles over time to be implemented to visualise motion for kinematic analysis.
 
 Welcome to my MRes dissertation project.
 This repository contains the following:
 
--Simplified Arm model
-
--Code for simulation
-
+-Simplified Arm model of the human arm
+-Code for simulation using Pybullet physics engine
 -Link to Participant-generated joint angles: https://github.com/MiaH-kin/UE_ADLdatabase/tree/master
-
--Packages used in conda environment 
+-Packages used in conda environment to run all together
 
 **Instructions for Setup**
-
 
 1.	Use Anaconda to create a virtual environment 
 2.	Download “environment.yml” to local machine
@@ -39,6 +35,19 @@ c.	”
 11.	In the Anaconda prompt terminal, run the following command
 a.	Python testing.py
 b.	This will run the simulation
+
+### The motions of the human arm:
+
+### Human shoulder movements
+![shoulder movements](Images/shoulder.png)
+
+Note that Lateral rotation is external rotation, with medial being internal rotation 
+
+### Human elbow movements
+![elbow movements](Images/elbow.png)
+
+### Human Wrist and forearm movements
+![wrist movements](Images/wrist.png)
 
 
 ### 7 DOF kinematic chain:
