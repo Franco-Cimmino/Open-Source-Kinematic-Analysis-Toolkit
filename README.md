@@ -39,10 +39,13 @@ b.	This will run the simulation
 
 
 ### 7 DOF kinematic chain:
+![Example Image](images/Kinematic Chain.png)
 
 ### 7 DOF kinematic chain link properties:
 
+
 ### 7 DOF kinematic chain revolute joint descriptions:
+
 
 ### Calculations used for lengths and weights
 
