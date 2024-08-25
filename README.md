@@ -12,6 +12,9 @@ This repository contains the following:
 
 -Packages used in conda environment 
 
+**Instructions for Setup**
+
+
 1.	Use Anaconda to create a virtual environment 
 2.	Download “environment.yml” to local machine
 3.	Run the following line in anaconda prompt:
@@ -21,7 +24,7 @@ i.	Replacing “/path/to/environment.yml” with the path to the file
 a.	Conda active sim_env
 5.	Verify packages by comparing results produced from this line with the txt file “requirements.txt”:
 a.	Conda list
-6.	Lines 421-428 contain the paths to the participant files, please change them accordingly to where they are currently installed on your machine 
+6.	Lines 421-428 contain the paths to the participant files; please change them accordingly to where they are currently installed on your machine 
 a.	"*where you saved project too*/Dissertation_Code/Joint Angles/UE_ADLdatabase-master/ADL004/ADL004FR1angles.csv"
 7.	By default, the model is performing one of the participants reaching forward motion visualised by the GUI that pops up
 8.	Additionally, all kinematic information will be presented once the simulation has run its course, but to see the next, the first will need to be closed, not the GUI.
@@ -30,8 +33,8 @@ a.	Please note that the kinematic workspace will take time to run
 a.	Look for the current data and comment/uncomment which one you would like
 b.	Please note that the file path will need to be verified 
 10.	If you wish to change the movement being performed for it to be manual movement, you will need to change two things:
-a.	The first is in the function Bicep_curl, the majority of the code will need to be uncommented so that you can see which block of code performs which movement
-b.	The second is in the main() function you will need to comment out the real data function and uncomment the line that begins with “joint_positions_timeline….” I have left a comment below which line
+a.	The first is in the function Bicep_curl; the majority of the code will need to be uncommented so that you can see which block of code performs which movement
+b.	The second is in the main() function. You will need to comment out the real data function and uncomment the line that begins with “joint_positions_timeline….” I have left a comment below which line
 c.	” 
 11.	In the Anaconda prompt terminal, run the following command
 a.	Python testing.py
@@ -39,17 +42,17 @@ b.	This will run the simulation
 
 
 ### 7 DOF kinematic chain:
-![Example Image](Open-Source-Kinematic-Analysis-Toolkit/images/Kinematic Chain.png)
+![Kinematic Chain](Images/Kinematic%20Chain.png)
+
 
 ### 7 DOF kinematic chain link properties:
-
+![Link Properties](Images/Link.png)
 
 ### 7 DOF kinematic chain revolute joint descriptions:
+![Joint Properties](Images/Joint.png)
 
 
-### Calculations used for lengths and weights
-
-
+### Calculations used for lengths and weights:
 173.3 x 17.25/173.3 = 29.89cm 	-Upper arm Length  
 67.49kg x 3.075/67.49 = 2.07kg	-Upper arm weight  
 
