@@ -83,31 +83,45 @@ According to reference (25), the average hand length was 18.105cm.
 
 
 ### Abduction Model and Trajectory
-![Model Abduction](ModelAbd.png)
-![Trajectory Abduction](TrajecAbd.png)
+![Model Abduction](Images/ModelAbd.png)
+![Trajectory Abduction](Images/TrajecAbd.png)
+Note that images of the GUI have an X, Y, and Z line going from the coordinates 0,0, 0 (red ball location), where the red line is X, blue is Z, and Y is green. 
+
 
 ### Elbow Flexion Model and Trajectory
-![Model Elbow Flexion](ModelEFlx.png)
-![Trajectory Elbow Flexion](TrajecEFlx.png)
+![Model Elbow Flexion](Images/ModelEFlx.png)
+![Trajectory Elbow Flexion](Images/TrajecEFlx.png)
+Note that images of the GUI have an X, Y, and Z line going from the coordinates 0,0, 0 (red ball location), where the red line is X, blue is Z, and Y is green. 
+
 
 ### External Rotation Model and Trajectory
-![Model External Rotation](ModelExtR.png)
-![Trajectory External Rotation](TrajecExtR.png)
+![Model External Rotation](Images/ModelExtR.png)
+![Trajectory External Rotation](Images/TrajecExtR.png)
+Note that images of the GUI have an X, Y, and Z line going from the coordinates 0,0, 0 (red ball location), where the red line is X, blue is Z, and Y is green. 
+
 
 ### Flexion Model and Trajectory
-![Model Flexion](ModelFlx.png)
-![Trajectory Flexion](TrajecFlx.png)
+![Model Flexion](Images/ModelFlx.png)
+![Trajectory Flexion](Images/TrajecFlx.png)
+Note that images of the GUI have an X, Y, and Z line going from the coordinates 0,0, 0 (red ball location), where the red line is X, blue is Z, and Y is green. 
+
 
 ### Hip Extension Model and Trajectory
-![Model Hip Extension](ModelHExt.png)
-![Trajectory Hip Extension](TrajecHExt.png)
+![Model Hip Extension](Images/ModelHExt.png)
+![Trajectory Hip Extension](Images/TrajecHExt.png)
+Note that images of the GUI have an X, Y, and Z line going from the coordinates 0,0, 0 (red ball location), where the red line is X, blue is Z, and Y is green. 
+
 
 ### Supination Model and Trajectory
-![Model Supination](ModelSup.png)
-![Trajectory Supination](TrajecSup.png)
+![Model Supination](Images/ModelSup.png)
+![Trajectory Supination](Images/TrajecSup.png)
+Note that images of the GUI have an X, Y, and Z line going from the coordinates 0,0, 0 (red ball location), where the red line is X, blue is Z, and Y is green. 
+
 
 ### Ulnar Deviation Model and Trajectory
-![Model Ulnar Deviation](ModelUlnaD.png)
-![Trajectory Ulnar Deviation](TrajecUlnaD.png)
+![Model Ulnar Deviation](Images/ModelUlnaD.png)
+![Trajectory Ulnar Deviation](Images/TrajecUlnaD.png)
+Note that images of the GUI have an X, Y, and Z line going from the coordinates 0,0, 0 (red ball location), where the red line is X, blue is Z, and Y is green. 
+
 
 
