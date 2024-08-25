@@ -81,6 +81,23 @@ According to reference (25), the average hand length was 18.105cm.
 | Wrist     | Ulnar Deviation        |          |   YES   |
 | Wrist     | Radial Deviation       | YES      |         |
 
+### Kinematic Workspace with increased resolution: 
+![High Resolution KW](Images/10KW.png)
+
+Sample rate at 10
+J1 = 10
+J2 = 10
+J3 = 10
+J4 = 10
+J5 = 10
+J6 = 10
+J7 = 10
+10 * 10 * 10 * 10 * 10 * 10 * 10 
+
+This is 10,000,000 total points in space plotted
+
+
+**Note that in the trajectory plots, 0.01 equals 1cm in the real world.**
 
 ### Abduction Model and Trajectory
 ![Model Abduction](Images/ModelAbd.png)
