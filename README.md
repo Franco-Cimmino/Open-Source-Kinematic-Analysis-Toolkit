@@ -155,6 +155,9 @@ Note that images of the GUI have an X, Y, and Z line going from the coordinates 
 ![Trajectory Ulnar Deviation](Images/TrajecUlnaD.png)
 Note that images of the GUI have an X, Y, and Z line going from the coordinates 0,0, 0 (red ball location), where the red line is X, blue is Z, and Y is green. 
 
+
+The accuracy is calculated by taking the difference between the raw value and the model value, dividing it by the raw value, and then multiplying the result by 100%.
+
 ### Participant 4 model joint angle change vs raw joint angle change
 ![Raw](Images/Screenshot%202024-08-26%20211712.png) Raw Angular change at end ^
 
