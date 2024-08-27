@@ -165,26 +165,16 @@ The accuracy is calculated by taking the difference between the raw value and th
 
 ### Participant 4 angular change  Values  
 
-| Joint    | Raw | Model |
-|----------|------|-------|
-| J1       | 37.74|  37.78|
-| J2       | 0.24 | 0.42  |
-| J3       | 15.05| 14.08 |
-| J4       | 70.77|  70.46|
-| J5       | 1    | 	1.01|
-| J6       | 6.72 |  6.77 |
-| J7       | 9.87 |  9.94 |
-
-J1: 99.89%
-J2: 25% 
-J3: 93.54%
-J4: 99.56%
-J5: 99%
-J6: 99.26%
-J7: 99.29%
+| Joint    | Raw | Model | Accuracy |
+|----------|------|------|----------|
+| J1       | 37.74| 37.78|99.89%    |
+| J2       | 0.24 |0.42  |25%       |
+| J3       | 15.05|14.08 |93.54%    |
+| J4       | 70.77| 70.46|99.56%    |
+| J5       | 1    |  1.01|99%       |
+| J6       | 6.72 | 6.77 |99.26%    |
+| J7       | 9.87 | 9.94 |99.29%    |
 Total Accuracy: 87.93%
-
-
 
 ### Participant 10 models joint angle change vs raw joint angle change
 ![Raw](Images/Screenshot%202024-08-26%20213522.png) Raw Angular change at end ^
@@ -192,23 +182,16 @@ Total Accuracy: 87.93%
 ![Model](Images/Screenshot%202024-08-26%20213426.png) Model Angular change at end ^
 
 ### Participant 10 angular change  Values
-| Joint    | Raw | Model |
-|----------|------|-------|
-| J1       | 35.85|  35.83|
-| J2       | 1.06 |  1.04 |
-| J3       | 7.81 |  7.82 |
-| J4       | 61.46|  64.38|
-| J5       | 13.39|  13.27|
-| J6       | 16.96|  16.83|
-| J7       | 24.06|  23.71|
-
-J1: 99.94%
-J2: 98.11%
-J3: 99.87%
-J4: 95.25%
-J5: 99.10%
-J6: 99.23%
-J7: 98.55%
+| Joint    | Raw | Model | Accuracy  |
+|----------|------|-------|----------|
+| J1       | 35.85|  35.83|99.94%    |
+| J2       | 1.06 |  1.04 |98.11%    |
+| J3       | 7.81 |  7.82 |99.87%    |
+| J4       | 61.46|  64.38|95.25%    |
+| J5       | 13.39|  13.27|99.10%    |
+| J6       | 16.96|  16.83|99.23%    |
+| J7       | 24.06|  23.71|98.55%    |
 Total Accuracy: 98.96%
+
 
 
