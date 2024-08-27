@@ -5,8 +5,14 @@ Welcome to my MRes dissertation project.
 This repository contains the following:
 
 -Simplified Arm model of the human arm
+
+
 -Code for simulation using Pybullet physics engine
+
+
 -Link to Participant-generated joint angles: https://github.com/MiaH-kin/UE_ADLdatabase/tree/master
+
+
 -Packages used in conda environment to run all together
 
 **Instructions for Setup**
@@ -149,5 +155,31 @@ Note that images of the GUI have an X, Y, and Z line going from the coordinates 
 ![Trajectory Ulnar Deviation](Images/TrajecUlnaD.png)
 Note that images of the GUI have an X, Y, and Z line going from the coordinates 0,0, 0 (red ball location), where the red line is X, blue is Z, and Y is green. 
 
+### Participant 4 model joint angle change vs raw joint angle change
+![Raw](Images/Screenshot%202024-08-26%20211712.png) Raw Angular change at end ^
+
+![Model](Images/Screenshot%202024-08-26%20213007.png) Model Angular change at end ^
+J1: 99.89%
+J2: 25% 
+J3: 93.54%
+J4: 99.56%
+J5: 99%
+J6: 99.26%
+J7: 99.29%
+Total Accuracy: 87.93%
+
+
+### Participant 10 models joint angle change vs raw joint angle change
+![Raw](Images/Screenshot%202024-08-26%20213522.png) Raw Angular change at end ^
+
+![Model](Images/Screenshot%202024-08-26%20213426.png) Model Angular change at end ^
+J1: 99.94%
+J2: 98.11%
+J3: 99.87%
+J4: 95.25%
+J5: 99.10%
+J6: 99.23%
+J7: 98.55%
+Total Accuracy: 98.96%
 
 
